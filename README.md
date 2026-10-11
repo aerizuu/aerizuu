@@ -41,8 +41,8 @@
 </h3>
 
 <div align="center">
-  <img src="./assets/github-overview.svg?cache_bust=38032165767-1-79ace81d4cf9c12c16cb4f3698f2d704b9e76f2b" width="49%" alt="voixera GitHub overview" />
-  <img src="./assets/github-languages.svg?cache_bust=38032165767-1-79ace81d4cf9c12c16cb4f3698f2d704b9e76f2b" width="49%" alt="Most used languages calculated by file size" />
+  <img src="./assets/github-overview.svg?cache_bust=38119577332-1-0976508c9c231235dbe8f17d0078262a9def2000" width="49%" alt="voixera GitHub overview" />
+  <img src="./assets/github-languages.svg?cache_bust=38119577332-1-0976508c9c231235dbe8f17d0078262a9def2000" width="49%" alt="Most used languages calculated by file size" />
 
   <br/><br/>
 </div>
@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/voixera/voixera/output/github-contribution-grid-snake.svg?cache_bust=38032165767-1-79ace81d4cf9c12c16cb4f3698f2d704b9e76f2b" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/voixera/voixera/output/github-contribution-grid-snake.svg?cache_bust=38119577332-1-0976508c9c231235dbe8f17d0078262a9def2000" alt="snake animation" />
 </p>
 
 ---

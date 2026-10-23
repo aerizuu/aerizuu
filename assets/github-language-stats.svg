@@ -1,5 +1,5 @@
 <svg width="460" height="260" viewBox="0 0 460 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">voixera language statistics</title>
+  <title id="title">aerizuu language statistics</title>
   <desc id="desc">Animated language card calculated from repository file sizes.</desc>
   <style>
     .title { fill: #24292f; font: 700 18px Segoe UI, Ubuntu, Sans-Serif; }
@@ -133,5 +133,5 @@
     </g>
 
   </g>
-  <!-- cache-bust: 39730363202-1-48ef23990c87f957d6047c13374cb0088ab060cd -->
+  <!-- cache-bust: 39907880254-1-df2faa80fbe66b95d964c84d44836a5e1b1ead4d -->
 </svg>

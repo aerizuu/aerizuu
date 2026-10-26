@@ -1,6 +1,6 @@
 import { mkdir, writeFile } from "node:fs/promises";
 
-const username = process.env.GITHUB_USERNAME || "drx347";
+const username = process.env.GITHUB_USERNAME || "aerizuu";
 const token = process.env.GITHUB_TOKEN || "";
 const languageOutput =
   process.env.LANGUAGE_OUTPUT_FILE ||

@@ -9,11 +9,11 @@
 <table align="center" style="background: #ffffff; border: 1px solid #d0d7de;">
   <tr>
     <td align="left" valign="middle" style="padding: 16px;">
-      <a href="https://github.com/voixera">
-        <img src="https://komarev.com/ghpvc/?username=voixera&label=PROFILE%20VIEWS&color=02731B&style=for-the-badge&labelColor=ffffff" alt="profile views" />
+      <a href="https://github.com/aerizuu">
+        <img src="https://komarev.com/ghpvc/?username=aerizuu&label=PROFILE%20VIEWS&color=02731B&style=for-the-badge&labelColor=ffffff" alt="profile views" />
       </a>
-      <a href="https://github.com/voixera/voixera">
-        <img src="https://img.shields.io/github/stars/voixera/voixera?label=STARS&style=for-the-badge&color=02731B&labelColor=ffffff&logo=github&logoColor=24292f" alt="repo stars" />
+      <a href="https://github.com/aerizuu/aerizuu">
+        <img src="https://img.shields.io/github/stars/aerizuu/aerizuu?label=STARS&style=for-the-badge&color=02731B&labelColor=ffffff&logo=github&logoColor=24292f" alt="repo stars" />
       </a>
 </table>
 
@@ -41,7 +41,7 @@
 </h3>
 
 <div align="center">
-  <img src="./assets/github-overview.svg?cache_bust=40276468747-1-c5249db9ec1bbb7c163af7be1904c4b9bd8983e0" width="49%" alt="voixera GitHub overview" />
+  <img src="./assets/github-overview.svg?cache_bust=40276468747-1-c5249db9ec1bbb7c163af7be1904c4b9bd8983e0" width="49%" alt="aerizuu GitHub overview" />
   <img src="./assets/github-languages.svg?cache_bust=40276468747-1-c5249db9ec1bbb7c163af7be1904c4b9bd8983e0" width="49%" alt="Most used languages calculated by file size" />
 
   <br/><br/>
@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/voixera/voixera/output/github-contribution-grid-snake.svg?cache_bust=40276468747-1-c5249db9ec1bbb7c163af7be1904c4b9bd8983e0" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/aerizuu/aerizuu/output/github-contribution-grid-snake.svg?cache_bust=40276468747-1-c5249db9ec1bbb7c163af7be1904c4b9bd8983e0" alt="snake animation" />
 </p>
 
 ---

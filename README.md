@@ -41,8 +41,8 @@
 </h3>
 
 <div align="center">
-  <img src="./assets/github-overview.svg?cache_bust=40831558988-1-24afd67334f8ac0507bb588f459a9dbca007b2c5" width="49%" alt="aerizuu GitHub overview" />
-  <img src="./assets/github-languages.svg?cache_bust=40831558988-1-24afd67334f8ac0507bb588f459a9dbca007b2c5" width="49%" alt="Most used languages calculated by file size" />
+  <img src="./assets/github-overview.svg?cache_bust=41016701211-1-89e35ab0d999a81346e3279b3fd83ad6b4712943" width="49%" alt="aerizuu GitHub overview" />
+  <img src="./assets/github-languages.svg?cache_bust=41016701211-1-89e35ab0d999a81346e3279b3fd83ad6b4712943" width="49%" alt="Most used languages calculated by file size" />
 
   <br/><br/>
 </div>
@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aerizuu/aerizuu/output/github-contribution-grid-snake.svg?cache_bust=40831558988-1-24afd67334f8ac0507bb588f459a9dbca007b2c5" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/aerizuu/aerizuu/output/github-contribution-grid-snake.svg?cache_bust=41016701211-1-89e35ab0d999a81346e3279b3fd83ad6b4712943" alt="snake animation" />
 </p>
 
 ---

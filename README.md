@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,docker,vscode,figma,aws,vercel,luau&theme=dark" alt="tools stack" />
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,docker,vscode,figma,aws,vercel,lua&theme=dark" alt="tools stack" />
 </p>
 
 ---
